@@ -1,0 +1,196 @@
+.indexlogo{
+    width: 70px;
+    height: 70px;
+    margin: 30px;
+}
+.fechaslogo{
+    width: 70px;
+    height: 70px;
+    margin: 30px;
+}
+.galerialogo{
+    width: 70px;
+    height: 70px;
+    margin: 30px;
+}
+.tiendalogo{
+    width: 70px;
+    height: 70px;
+    margin: 30px;
+}
+.infologo{
+    width: 70px;
+    height: 70px;
+    margin: 30px;
+}
+.infoimg{
+    text-align: right;
+    .imginfo{
+        width: 700;
+        height: 100;
+    }
+}
+.imgindex{
+    text-align: center;
+}
+.indeximg{
+    width: 800px;
+    height: 650px;
+}
+.maintienda{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    .divimagenes{
+        margin: 20px;
+    }
+    .imagenes1{
+        width: 350px;
+        border: double 2px white;
+        opacity: 1;
+        &:hover{
+        opacity: .5;
+        border: solid 2px #aa0055;
+        }
+    }
+    .imagenes2{
+        width: 350px;
+        border: double 2px white;
+        opacity: 1;
+        &:hover{
+        opacity: .5;
+        border: solid 2px #aa0055;
+        }
+    }
+    .imagenes3{
+        width: 350px;
+        border: double 2px white;
+        opacity: 1;
+        &:hover{
+        opacity: .5;
+        border: solid 2px #aa0055;
+        }
+    }
+    .imagenes4{
+        width: 350px;
+        border: double 2px white;
+        opacity: 1;
+        &:hover{
+        opacity: .5;
+        border: solid 2px #aa0055;
+        }
+    }
+    .imagenes5{
+        width: 350px;
+        border: double 2px white;
+        opacity: 1;
+        &:hover{
+        opacity: .5;
+        border: solid 2px #aa0055;
+        }
+    }
+    .imagenes6{
+        width: 350px;
+        border: double 2px white;
+        opacity: 1;
+        &:hover{
+        opacity: .5;
+        border: solid 2px #aa0055;
+        }
+    }
+    .imagenes7{
+        width: 350px;
+        border: double 2px white;
+        opacity: 1;
+        &:hover{
+        opacity: .5;
+        border: solid 2px #aa0055;
+        }
+    }
+    .imagenes8{
+        width: 350px;
+        border: double 2px white;
+        opacity: 1;
+        &:hover{
+        opacity: .5;
+        border: solid 2px #aa0055;
+        }
+    }
+    .imagenes9{
+        width: 350px;
+        border: double 2px white;
+        opacity: 1;
+        &:hover{
+        opacity: .5;
+        border: solid 2px #aa0055;
+        }
+    }
+}
+section{
+    .sectiongaleria{
+        text-align: right;
+    }
+    .vid1{
+        width: 250px;
+        border: double 2px white;
+        &:hover{
+        border: solid 2px #aa0055;
+        }
+    }
+    .vid2{
+        width: 250px;
+        border: double 2px white;
+        &:hover{
+            border: solid 2px #aa0055;
+        }
+    }
+    .vid3{
+        width: 250px;
+        border: double 2px white;
+        &:hover{
+            border: solid 2px #aa0055;
+        }
+    }
+    .vid4{
+        width: 250px;
+        border: double 2px white;
+        &:hover{
+            border: solid 2px #aa0055;
+        }
+    }
+}
+.maintienda{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    .divimagenesgaleria{
+        margin: 10px;
+        padding: 10px;
+    }
+    .imagaleria1{
+        width: 350px;
+        border: double 2px white;
+        &:hover{
+        border: solid 2px #aa0055;
+        }
+    }
+    .imagaleria2{
+        width: 350px;
+        border: double 2px white;
+        &:hover{
+        border: solid 2px #aa0055;
+        }
+    }
+    .imagaleria3{
+        width: 350px;
+        border: double 2px white;
+        &:hover{
+        border: solid 2px #aa0055;
+        }
+    }
+}
+.redeslogo{
+    text-align: center;
+}

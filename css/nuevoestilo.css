@@ -1,0 +1,255 @@
+/*Estilos sass*/
+/*Estilos generaes*/
+* {
+  margin: 0%;
+  padding: 0%;
+  box-sizing: border-box; }
+
+body {
+  background-color: lightpink; }
+
+header {
+  background-color: #efe2d7; }
+  header .indexlogo {
+    width: 70px;
+    height: 70px;
+    margin: 30px; }
+
+main .imgindex {
+  text-align: center; }
+
+main .indeximg {
+  width: 800px;
+  height: 650px; }
+
+footer {
+  padding: 30px;
+  background-color: #efe2d7; }
+
+.final {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-weight: 100;
+  color: purple;
+  text-align: center; }
+
+.final2 {
+  color: black;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-weight: 100;
+  text-align: center; }
+
+.arriba {
+  color: black;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-weight: 100;
+  text-align: center; }
+
+.formularioboton {
+  background-color: #efe2d7; }
+
+.parr1 {
+  margin: 3%;
+  padding: 3%;
+  font-size: 20px;
+  font-style: italic;
+  line-height: 1.6; }
+
+.parr2 {
+  margin: 3%;
+  padding: 3%;
+  font-size: 20px;
+  font-style: italic;
+  line-height: 1.6; }
+
+.subvideos {
+  text-align: left;
+  font-size: 40px;
+  color: purple; }
+
+.subfotos {
+  font-size: 40px;
+  text-align: left;
+  color: purple; }
+
+.subfechas {
+  font-size: 40px;
+  text-align: center;
+  color: purple; }
+
+.subbienvenidos {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 90px;
+  text-align: center;
+  color: purple; }
+
+.shop {
+  font-size: 40px;
+  text-align: center;
+  color: purple; }
+
+.sumasinf {
+  font-size: 25px;
+  color: purple; }
+
+.indexlogo {
+  width: 70px;
+  height: 70px;
+  margin: 30px; }
+
+.fechaslogo {
+  width: 70px;
+  height: 70px;
+  margin: 30px; }
+
+.galerialogo {
+  width: 70px;
+  height: 70px;
+  margin: 30px; }
+
+.tiendalogo {
+  width: 70px;
+  height: 70px;
+  margin: 30px; }
+
+.infologo {
+  width: 70px;
+  height: 70px;
+  margin: 30px; }
+
+.infoimg {
+  text-align: right; }
+  .infoimg .imginfo {
+    width: 700;
+    height: 100; }
+
+.imgindex {
+  text-align: center; }
+
+.indeximg {
+  width: 800px;
+  height: 650px; }
+
+.maintienda {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-evenly; }
+  .maintienda .divimagenes {
+    margin: 20px; }
+  .maintienda .imagenes1 {
+    width: 350px;
+    border: double 2px white;
+    opacity: 1; }
+    .maintienda .imagenes1:hover {
+      opacity: .5;
+      border: solid 2px #aa0055; }
+  .maintienda .imagenes2 {
+    width: 350px;
+    border: double 2px white;
+    opacity: 1; }
+    .maintienda .imagenes2:hover {
+      opacity: .5;
+      border: solid 2px #aa0055; }
+  .maintienda .imagenes3 {
+    width: 350px;
+    border: double 2px white;
+    opacity: 1; }
+    .maintienda .imagenes3:hover {
+      opacity: .5;
+      border: solid 2px #aa0055; }
+  .maintienda .imagenes4 {
+    width: 350px;
+    border: double 2px white;
+    opacity: 1; }
+    .maintienda .imagenes4:hover {
+      opacity: .5;
+      border: solid 2px #aa0055; }
+  .maintienda .imagenes5 {
+    width: 350px;
+    border: double 2px white;
+    opacity: 1; }
+    .maintienda .imagenes5:hover {
+      opacity: .5;
+      border: solid 2px #aa0055; }
+  .maintienda .imagenes6 {
+    width: 350px;
+    border: double 2px white;
+    opacity: 1; }
+    .maintienda .imagenes6:hover {
+      opacity: .5;
+      border: solid 2px #aa0055; }
+  .maintienda .imagenes7 {
+    width: 350px;
+    border: double 2px white;
+    opacity: 1; }
+    .maintienda .imagenes7:hover {
+      opacity: .5;
+      border: solid 2px #aa0055; }
+  .maintienda .imagenes8 {
+    width: 350px;
+    border: double 2px white;
+    opacity: 1; }
+    .maintienda .imagenes8:hover {
+      opacity: .5;
+      border: solid 2px #aa0055; }
+  .maintienda .imagenes9 {
+    width: 350px;
+    border: double 2px white;
+    opacity: 1; }
+    .maintienda .imagenes9:hover {
+      opacity: .5;
+      border: solid 2px #aa0055; }
+
+section .sectiongaleria {
+  text-align: right; }
+
+section .vid1 {
+  width: 250px;
+  border: double 2px white; }
+  section .vid1:hover {
+    border: solid 2px #aa0055; }
+
+section .vid2 {
+  width: 250px;
+  border: double 2px white; }
+  section .vid2:hover {
+    border: solid 2px #aa0055; }
+
+section .vid3 {
+  width: 250px;
+  border: double 2px white; }
+  section .vid3:hover {
+    border: solid 2px #aa0055; }
+
+section .vid4 {
+  width: 250px;
+  border: double 2px white; }
+  section .vid4:hover {
+    border: solid 2px #aa0055; }
+
+.maintienda {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-evenly; }
+  .maintienda .divimagenesgaleria {
+    margin: 10px;
+    padding: 10px; }
+  .maintienda .imagaleria1 {
+    width: 350px;
+    border: double 2px white; }
+    .maintienda .imagaleria1:hover {
+      border: solid 2px #aa0055; }
+  .maintienda .imagaleria2 {
+    width: 350px;
+    border: double 2px white; }
+    .maintienda .imagaleria2:hover {
+      border: solid 2px #aa0055; }
+  .maintienda .imagaleria3 {
+    width: 350px;
+    border: double 2px white; }
+    .maintienda .imagaleria3:hover {
+      border: solid 2px #aa0055; }
+
+.redeslogo {
+  text-align: center; }

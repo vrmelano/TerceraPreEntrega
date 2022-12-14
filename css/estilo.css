@@ -1,0 +1,321 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+body{
+    background-color: lightpink;
+}
+header{
+    background-color: #efe2d7;
+}  
+.subvideos{
+    text-align: left;
+    font-size: 40px;
+    color:purple
+}
+.subfotos{
+    font-size: 40px;
+    text-align: left;
+    color:purple
+}
+.subfechas{
+    font-size: 40px;
+    text-align: center;
+    color:purple
+}
+.sumasinf{
+    font-size: 25px;
+    color:purple;
+}
+.subbienvenidos{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 90px;
+    text-align: center;
+    color: purple;
+}  
+.parr1{
+    margin: 3%;
+    padding: 3%;
+    font-size: 20px;
+    font-style: italic;
+    line-height: 1.6;
+}
+.parr2{
+    margin: 3%;
+    padding: 3%;
+    font-size: 20px;
+    font-style: italic;
+    line-height: 1.6;
+}
+.indexlogo{
+    width: 70px;
+    height: 70px;
+    margin: 30px;
+}
+.fechaslogo{
+    width: 70px;
+    height: 70px;
+    margin: 30px;
+}
+.galerialogo{
+    width: 70px;
+    height: 70px;
+    margin: 30px;
+}
+.tiendalogo{
+    width: 70px;
+    height: 70px;
+    margin: 30px;
+}
+.infologo{
+    width: 70px;
+    height: 70px;
+    margin: 30px;
+}
+.imgindex{
+    text-align: center;
+}
+.indeximg{
+    width: 800px;
+    height: 650px;
+}
+.sectiongaleria{
+    text-align: right;
+}
+.vid1{
+    width: 250px;
+    border: double 2px white;
+}
+.vid1:hover{
+    border: solid 2px #aa0055;
+}
+.vid2{
+    width: 250px;
+    border: double 2px white;
+}
+.vid2:hover{
+    border: solid 2px #aa0055;
+}
+.vid3{
+    width: 250px;
+    border: double 2px white;
+}
+.vid3:hover{
+    border: solid 2px #aa0055;
+}
+.vid4{
+    width: 250px;
+    border: double 2px white;
+}
+.vid4:hover{
+    border: solid 2px #aa0055;
+}
+.imggaleria1x3{
+    width: 700px;
+    height: 550px;
+}
+.galeria2x3{
+    text-align: center;
+}
+.imggaleria2x3{
+    width: 700px;
+    height: 550px;
+} 
+.galeria3x3{
+    text-align: right;
+} 
+.imggaleria3x3{
+    text-align: right;
+    width: 700px;
+    height: 550px;
+}
+
+table{
+    text-align: center;
+    font-weight: 100;
+}
+.formularioboton{
+ background-color: #efe2d7
+}
+.linea1{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}   
+.linea2{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    line-height: 1.6;
+}  
+.linea3{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    line-height: 1.6;
+}
+.linea4{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    line-height: 1.6;
+}
+.shop{
+    font-size: 40px;
+    text-align: center;
+    color:purple
+}
+
+.infoimg{
+    text-align: right;
+}
+.imginfo{
+    width: 700;
+    height: 100;
+}
+.divimagenes{
+    margin: 20px;
+}
+.imagenes1{
+    width: 350px;
+    border: double 2px white;
+    opacity: 1;
+}
+.imagenes1:hover{
+    opacity: .5;
+    border: solid 2px #aa0055;
+}
+.imagenes2{
+    width: 350px;
+    border: double 2px white;
+    opacity: 1;
+}
+.imagenes2:hover{
+    opacity: .5;
+    border: solid 2px #aa0055;
+}
+.imagenes3{
+    width: 350px;
+    border: double 2px white;
+    opacity: 1;
+}
+.imagenes3:hover{
+    opacity: .5;
+    border: solid 2px #aa0055;
+}
+.imagenes4{
+    width: 350px;
+    border: double 2px white;
+    opacity: 1;
+}
+.imagenes4:hover{
+    opacity: .5;
+    border: solid 2px #aa0055;
+}
+.imagenes5{
+    width: 350px;
+    border: double 2px white;
+    opacity: 1;
+}
+.imagenes5:hover{
+    opacity: .5;
+    border: solid 2px #aa0055;
+}
+.imagenes6{
+    width: 350px;
+    border: double 2px white;
+    opacity: 1;
+}
+.imagenes6:hover{
+    opacity: .5;
+    border: solid 2px #aa0055;
+}
+.imagenes7{
+    width: 350px;
+    border: double 2px white;
+    opacity: 1;
+}
+.imagenes7:hover{
+    opacity: .5;
+    border: solid 2px #aa0055;
+}
+.imagenes8{
+    width: 350px;
+    border: double 2px white;
+    opacity: 1;
+}
+.imagenes8:hover{
+    opacity: .5;
+    border: solid 2px #aa0055;
+}
+.imagenes9{
+    width: 350px;
+    border: double 2px white;
+    opacity: 1;
+}
+.imagenes9:hover{
+    opacity: .5;
+    border: solid 2px #aa0055;
+}
+.divimagenesgaleria{
+    margin: 10px;
+    padding: 10px;
+}
+.imagaleria1{
+    width: 350px;
+    border: double 2px white;
+}
+.imagaleria1:hover{
+    border: solid 2px #aa0055;
+}
+.imagaleria2{
+    width: 350px;
+    border: double 2px white;
+}
+.imagaleria2:hover{
+    border: solid 2px #aa0055;
+}
+.imagaleria3{
+    width: 350px;
+    border: double 2px white;
+}
+.imagaleria3:hover{
+    border: solid 2px #aa0055;
+}
+.maintienda{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.nomape{
+    margin: 2px;
+    padding: 2px;
+}    
+.mail{
+    margin: 2px;
+    padding: 2px;
+}   
+fieldset{
+margin: 2px;
+padding: 2px;
+}     
+.final{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 100;
+    color: purple;
+    text-align: center;
+}    
+ .final2{
+    color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 100;
+    text-align: center;
+}
+.arriba{
+    color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 100;
+    text-align: center;
+}
+.redeslogo{
+    text-align: center;
+}
+footer{
+    padding: 30px; 
+    background-color: #efe2d7
+}
+

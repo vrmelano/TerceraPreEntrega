@@ -1,0 +1,54 @@
+/*Estilos generaes*/
+$hyfcolor:#efe2d7;
+$bodycolor:lightpink;
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+body{ 
+    background-color: $bodycolor;
+}
+header{
+    background-color: $hyfcolor;
+    .indexlogo{
+        width: 70px;
+        height: 70px;
+        margin: 30px;
+    }
+   }
+main{
+    .imgindex{
+        text-align: center;
+    }
+    .indeximg{
+        width: 800px;
+        height: 650px;
+    }
+
+}
+footer{
+    padding: 30px; 
+    background-color: $hyfcolor;
+}
+.final{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 100;
+    color: purple;
+    text-align: center;
+}    
+ .final2{
+    color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 100;
+    text-align: center;
+}
+.arriba{
+    color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 100;
+    text-align: center;
+}
+.formularioboton{
+    background-color: $hyfcolor
+   }
